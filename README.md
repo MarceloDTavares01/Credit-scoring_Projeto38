@@ -1,4 +1,5 @@
 # Credit-scoring_Projeto38
 #### Projeto módulo 38_EBAC: Streamlit & Pycaret
 
-[streamlit-app_pycaret-2024-09-14-00-09-81.webm](https://github.com/user-attachments/assets/ba07ce48-2267-4759-ad09-f668f6d08a44)
+https://github.com/user-attachments/assets/1829c3f0-a9ad-4a55-8aa6-23d5f4f11701
+
